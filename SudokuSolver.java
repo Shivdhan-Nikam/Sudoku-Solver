@@ -43,7 +43,7 @@ public class SudokuSolver {
 
 
     public static void main(String[] args) {
-
+    // board 
    char[][] board= {
                     {'9', '5', '7', '.', '1', '3', '.', '8', '4'},
                     {'4', '8', '3', '.', '5', '7', '1', '.', '6'},
